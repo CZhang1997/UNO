@@ -1,0 +1,20 @@
+MIPS
+
+run the asm file with Mars4_5
+
+UNO Card Game
+This game needs four players to play. Each Player will take seven cards from the deck. 
+After the four players receive seven cards from the deck, the game will take one more 
+card from the deck as the beginning card. The goal to win this game is by using all of the 
+cards that are in your hand. There are couple rules of the game. First, each player only can 
+play one card per round. and the card that the player play has to be the same color or the 
+same type of cards. The exceptions are the Wild cards and Wild Plus Four cards. If the 
+player uses a Wild card, then he/she can choose the color he/she wants. The Draw Two 
+cards will make the next player gain two cards. The Skip cards will skip the player that is 
+followed by the user. lastly, the Reverse Card change the rotation of the player when they 
+play. For example, the default rotation starts with Player A, then Player B, Player C, Player D, 
+then go back to Player A. If Player C use the Reverse card, then the rotation will become 
+Player B, Player A, Player D, Player C, then Player B again. This rotation will stay the same 
+unless someone else uses the card Reverse. If you do not have the right card to play, then 
+enter zero to gain a card. 
+if you want to end the game, then enter -1. Have Fun playing UNO!!!"
